@@ -26,7 +26,7 @@ Questions Answered:
 4. Get Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
 5. Get Overall Statistics About The Dataframe
 6. Data Filtering
-7.Check Null Values In The Dataset
+7. Check Null Values In The Dataset
 8. Drop the Column
 9. Handle Missing Values
 10. Categorical Data Encoding
