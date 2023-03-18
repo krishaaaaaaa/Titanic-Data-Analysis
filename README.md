@@ -30,6 +30,14 @@ Questions Answered:
 8. Drop the Column
 9. Handle Missing Values
 10. Categorical Data Encoding
+11. What is Univariate Analysis?
+How Many People Survived And How Many Died?
+How Many Passengers Were In First Class, Second Class, and Third Class?
+Number of Male And Female Passengers
+12. Bivariate Analysis
+How Has Better Chance of Survival Male or Female?
+Which Passenger Class Has Better Chance of Survival (First, Second, Or Third Class)? 
+13. Feature Engineering
 
 Train.csv will contain the details of a subset of the passengers on board (891 to be exact) and importantly, will reveal whether they survived or not, also known as the “ground truth”.
 The test.csv dataset contains similar information but does not disclose the “ground truth” for each passenger.  
